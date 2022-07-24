@@ -17,7 +17,7 @@ https://github.com/leonardo-ono/JavaAnotherVerySimple3DSoftwareRenderer/releases
 
 [![video](http://img.youtube.com/vi/hWUX1t9f6zE/0.jpg)](http://www.youtube.com/watch?v=hWUX1t9f6zE)
 
-click the image above to see the gameplay video
+click the image above to see the video
 
 
 ## Screenshots
